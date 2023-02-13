@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 
 public class DB {
     
-    public static Connection getConnection(){
+    public static Connection getConnection(){  // 커넥션을 리턴
         // Connection conn = null;
 		// Statement stmt = null;
 		// ResultSet rs;
